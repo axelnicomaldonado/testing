@@ -7,6 +7,7 @@ include_once("wordix.php");
 
 /* Apellido, Nombre. Legajo. Carrera. mail. Usuario Github */
 /* Maldonado, Axel Nicolás. FAI-3196. TUDW. axel.maldonado@est.fi.uncoma.edu.ar. axelnicomaldonado */
+/* cambio aleatorio
 /* ... COMPLETAR ... */
 
 
